@@ -1,0 +1,15 @@
+C:\Users\Obed\source\repos\PruebaTecnica\EjercicioBonus\bin\Debug\net5.0\EjercicioBonus.exe
+C:\Users\Obed\source\repos\PruebaTecnica\EjercicioBonus\bin\Debug\net5.0\EjercicioBonus.deps.json
+C:\Users\Obed\source\repos\PruebaTecnica\EjercicioBonus\bin\Debug\net5.0\EjercicioBonus.runtimeconfig.json
+C:\Users\Obed\source\repos\PruebaTecnica\EjercicioBonus\bin\Debug\net5.0\EjercicioBonus.runtimeconfig.dev.json
+C:\Users\Obed\source\repos\PruebaTecnica\EjercicioBonus\bin\Debug\net5.0\EjercicioBonus.dll
+C:\Users\Obed\source\repos\PruebaTecnica\EjercicioBonus\bin\Debug\net5.0\ref\EjercicioBonus.dll
+C:\Users\Obed\source\repos\PruebaTecnica\EjercicioBonus\bin\Debug\net5.0\EjercicioBonus.pdb
+C:\Users\Obed\source\repos\PruebaTecnica\EjercicioBonus\obj\Debug\net5.0\EjercicioBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obed\source\repos\PruebaTecnica\EjercicioBonus\obj\Debug\net5.0\EjercicioBonus.AssemblyInfoInputs.cache
+C:\Users\Obed\source\repos\PruebaTecnica\EjercicioBonus\obj\Debug\net5.0\EjercicioBonus.AssemblyInfo.cs
+C:\Users\Obed\source\repos\PruebaTecnica\EjercicioBonus\obj\Debug\net5.0\EjercicioBonus.csproj.CoreCompileInputs.cache
+C:\Users\Obed\source\repos\PruebaTecnica\EjercicioBonus\obj\Debug\net5.0\EjercicioBonus.dll
+C:\Users\Obed\source\repos\PruebaTecnica\EjercicioBonus\obj\Debug\net5.0\ref\EjercicioBonus.dll
+C:\Users\Obed\source\repos\PruebaTecnica\EjercicioBonus\obj\Debug\net5.0\EjercicioBonus.pdb
+C:\Users\Obed\source\repos\PruebaTecnica\EjercicioBonus\obj\Debug\net5.0\EjercicioBonus.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EjercicioBonus/1.0.0": {
+        "runtime": {
+          "EjercicioBonus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioBonus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
